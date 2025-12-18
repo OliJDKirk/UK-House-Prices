@@ -29,19 +29,19 @@ README.md
 ## Visualizations
 
 ### House Prices by Region
-![House Prices by Region](plots/house_prices_by_region.png)
+![House Prices by Region](Plots/house_prices_by_region.png)
 
 ### Annual House Price Growth
-![House Price Growth](plots/house_price_growth_by_region.png)
+![House Price Growth](Plots/house_price_growth_by_region.png)
 
 ### Rolling 12-Month Growth
-![Rolling 12-Month Growth](plots/rolling_12m_house_price_growth.png)
+![Rolling 12-Month Growth](Plots/rolling_12m_house_price_growth.png)
 
 ### House Price Growth vs Bank Rate
-![Growth vs Bank Rate](plots/house_price_growth_vs_base_rate.png)
+![Growth vs Bank Rate](Plots/house_price_growth_vs_base_rate.png)
 
 ### Scatter Plot: Rate vs Growth
-![Scatter Rate vs Growth](plots/scatter_rate_vs_growth.png)
+![Scatter Rate vs Growth](Plots/scatter_rate_vs_growth.png)
 
 ---
 
